@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* Typography */
+/* Base font size */
+html {
+  font-size: 16px; /* Adjust base font size as needed */
+}
+
+
+/* Custom Classes for Specific Elements */
+.experience-list {
+  list-style: none; /* Remove default list styling */
+  margin-bottom: 1em;
+}
+
+.experience-item {
+  margin-bottom: 1.5em; /* Space between experience items */
+}
+
+.experience-item li {
+  margin-bottom: 0.25em; /* Space between list items */
+}
+
+.experience-title {
+  font-size: 1.2em; /* Larger font size for the title */
+  font-weight: bold; /* Bold font weight for the title */
+  color: #333; /* Darker text for better readability */
+}
+
+.experience-company {
+  font-style: italic; /* Italicize company name */
+}
+
+.experience-description {
+  margin-top: 0.5em; /* Space before the description */
+  text-align: justify; /* Justify text for a cleaner look */
+}
+
+.highlighted-info {
+  background-color: #faecaf; /* Dark blue background */
+  color: #000000; /* White text */
+  padding: 1em;
+  border: 1px solid #000; /* Solid black border */
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
