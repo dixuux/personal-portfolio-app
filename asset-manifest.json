@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-app/static/css/main.348c9d32.css",
-    "main.js": "/personal-portfolio-app/static/js/main.18ed4c7b.js",
+    "main.css": "/personal-portfolio-app/static/css/main.cbe36e83.css",
+    "main.js": "/personal-portfolio-app/static/js/main.9cde5bd4.js",
     "static/js/453.f6038bbc.chunk.js": "/personal-portfolio-app/static/js/453.f6038bbc.chunk.js",
     "static/media/ms_sans_serif.woff2": "/personal-portfolio-app/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
     "static/media/ms_sans_serif_bold.woff2": "/personal-portfolio-app/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
     "index.html": "/personal-portfolio-app/index.html",
-    "main.348c9d32.css.map": "/personal-portfolio-app/static/css/main.348c9d32.css.map",
-    "main.18ed4c7b.js.map": "/personal-portfolio-app/static/js/main.18ed4c7b.js.map",
+    "main.cbe36e83.css.map": "/personal-portfolio-app/static/css/main.cbe36e83.css.map",
+    "main.9cde5bd4.js.map": "/personal-portfolio-app/static/js/main.9cde5bd4.js.map",
     "453.f6038bbc.chunk.js.map": "/personal-portfolio-app/static/js/453.f6038bbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.348c9d32.css",
-    "static/js/main.18ed4c7b.js"
+    "static/css/main.cbe36e83.css",
+    "static/js/main.9cde5bd4.js"
   ]
 }
