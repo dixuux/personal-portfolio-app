@@ -88,7 +88,7 @@ const Projects = () => {
                         <TableDataCell>User Research, UX UI Design, Stakeholder Alignment </TableDataCell>
                         <TableDataCell>                          
                         • 📈 Internal staff efficiency and satisfaction <br />
-                        • 📈 Safty Metrics</TableDataCell>
+                        • 📈 Safety Metrics</TableDataCell>
                     </TableRow>
 
                 </TableBody>
