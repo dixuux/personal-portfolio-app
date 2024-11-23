@@ -12,7 +12,7 @@ const Projects = () => {
             <span role='img' aria-label='LEAF'>
             🌿
             </span>
-            Projects
+            Projects NEW
             <span role='img' aria-label='LEAF'>
             🌿
             </span>
