@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-portfolio-app/static/css/main.348c9d32.css",
-    "main.js": "/personal-portfolio-app/static/js/main.8b230eaf.js",
-    "static/js/453.f6038bbc.chunk.js": "/personal-portfolio-app/static/js/453.f6038bbc.chunk.js",
-    "static/media/ms_sans_serif.woff2": "/personal-portfolio-app/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
-    "static/media/ms_sans_serif_bold.woff2": "/personal-portfolio-app/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
-    "index.html": "/personal-portfolio-app/index.html",
-    "main.348c9d32.css.map": "/personal-portfolio-app/static/css/main.348c9d32.css.map",
-    "main.8b230eaf.js.map": "/personal-portfolio-app/static/js/main.8b230eaf.js.map",
-    "453.f6038bbc.chunk.js.map": "/personal-portfolio-app/static/js/453.f6038bbc.chunk.js.map"
+    "main.css": "/dixuux/personal-portfolio-app/static/css/main.348c9d32.css",
+    "main.js": "/dixuux/personal-portfolio-app/static/js/main.7d00748c.js",
+    "static/js/453.f6038bbc.chunk.js": "/dixuux/personal-portfolio-app/static/js/453.f6038bbc.chunk.js",
+    "static/media/ms_sans_serif.woff2": "/dixuux/personal-portfolio-app/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/dixuux/personal-portfolio-app/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
+    "index.html": "/dixuux/personal-portfolio-app/index.html",
+    "main.348c9d32.css.map": "/dixuux/personal-portfolio-app/static/css/main.348c9d32.css.map",
+    "main.7d00748c.js.map": "/dixuux/personal-portfolio-app/static/js/main.7d00748c.js.map",
+    "453.f6038bbc.chunk.js.map": "/dixuux/personal-portfolio-app/static/js/453.f6038bbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.348c9d32.css",
-    "static/js/main.8b230eaf.js"
+    "static/js/main.7d00748c.js"
   ]
 }
